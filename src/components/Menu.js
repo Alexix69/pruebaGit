@@ -30,12 +30,12 @@ const Menu =()=> {
                   <Row className="buttonsChatPost">
                     <Col span={12}>
                       <Button id="button" shape="round">
-                        Chat 
+                        CHAT
                       </Button>
                     </Col>
                     <Col span={12}>
                       <Button id="button" shape="round">
-                        Post
+                        POST
                       </Button>
                     </Col>
                   </Row>
